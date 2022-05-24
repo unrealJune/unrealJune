@@ -1,5 +1,8 @@
 <h1 id="-about-me-">💫About Me :</h1>
 <p>Hey! I&#39;m a CS major studying at the University of Maryland, College Park!   (Graduating 2024)</p>
+<iframe src="https://docs.google.com/gview?url=https://docs.google.com/document/d/1n-n4R1PVXHiHazHO0s1skdxgtIKX8pxj/edit?usp=sharing&ouid=112454999915562396127&rtpof=true&sd=true &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+
+
 <h2 id="-socials">🌐Socials</h2>
 <p><a href="https://instagram.com/unrealJune"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a> </p>
 <h1 id="-tech-stack">💻Tech Stack</h1>
