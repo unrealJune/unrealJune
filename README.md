@@ -1,6 +1,9 @@
 <h1 id="-about-me-">💫About Me :</h1>
 <p>Hey! I&#39;m a CS major studying at the University of Maryland, College Park!   (Graduating 2024)</p>
-<iframe src="https://docs.google.com/gview?url=https://docs.google.com/document/d/1n-n4R1PVXHiHazHO0s1skdxgtIKX8pxj/edit?usp=sharing&ouid=112454999915562396127&rtpof=true&sd=true &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+<p><a href="https://docs.google.com/document/d/1n-n4R1PVXHiHazHO0s1skdxgtIKX8pxj/edit?usp=sharing&ouid=112454999915562396127&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Resume!</a></p>
+
+<p>A little about me: While I love to dabble and have experience all over the place, I spend a lot of time on full-stack app development.</p>
+<p>Additionally, I've been working software engineering internships and maintain numerous personal projects. </p>
 
 
 <h2 id="-socials">🌐Socials</h2>
@@ -11,3 +14,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=unrealJune&amp;theme=material-palenight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=unrealJune&amp;theme=material-palenight&amp;hide_border=true" alt=""><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealJune&amp;theme=material-palenight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt=""></p>
+<p> 🏳️‍⚧️🏳️‍⚧️ Support Trans Programmers! 🏳️‍⚧️🏳️‍⚧️ </p>
