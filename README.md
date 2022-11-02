@@ -15,7 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+OCaml      5 hrs 10 mins   ███████████████████████▒░   93.98 %
+YAML       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
