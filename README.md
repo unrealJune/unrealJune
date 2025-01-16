@@ -1,5 +1,5 @@
 <h1 id="-about-me-">💫About Me :</h1>
-<p>Hey! I&#39;m a CS major studying at the University of Maryland, College Park!   (Graduating 2024)</p>
+<p>Hey! I&#39;m a software engineer @Microsoft!, I make things of dubious usefulness.</p>
 <p><a href="https://docs.google.com/document/d/1n-n4R1PVXHiHazHO0s1skdxgtIKX8pxj/edit?usp=sharing&ouid=112454999915562396127&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Resume!</a></p>
 <p><a href="https://www.junephilip.com/" target="_blank" rel="noopener noreferrer">Portfolio!</a></p>
 
